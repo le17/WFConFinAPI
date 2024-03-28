@@ -1,0 +1,7 @@
+C:\Projetos\WFConFin\WFConFin\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Projetos\WFConFin\WFConFin\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+C:\Projetos\WFConFin\WFConFin\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Production.json
+C:\Projetos\WFConFin\WFConFin\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Stagin.json
+C:\Projetos\WFConFin\WFConFin\obj\Release\net6.0\win-x64\PubTmp\Out\WFConFin.pdb
+C:\Projetos\WFConFin\WFConFin\obj\Release\net6.0\win-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
+C:\Projetos\WFConFin\WFConFin\obj\Release\net6.0\win-x64\PubTmp\Out\WFConFin.exe
